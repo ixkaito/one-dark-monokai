@@ -7,6 +7,6 @@
   "repository": "https://github.com/ixkaito/one-dark-monokai",
   "license": "MIT",
   "engines": {
-    "atom": ">0.39.0"
+    "atom": ">=1.13.0"
   }
 }
